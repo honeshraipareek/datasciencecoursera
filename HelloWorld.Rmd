@@ -1,5 +1,0 @@
----
-title: "Data Science Assignment"
-output: github_document
----
-##Hello World
